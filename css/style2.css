@@ -1,0 +1,42 @@
+/* Base */
+
+/* Header */
+
+/* Navigation */
+
+/* Hero */
+
+/* Boxes */
+
+/* Home */
+.services {padding-top: 50px;padding-bottom: 50px;}
+h2.section-title {text-align: center;color: #404040;}
+.services p.desc {text-align: center;font-size: 13px;margin-bottom: 20px;}
+.services .media {margin-top: 30px;}
+.services .media i {font-size: 45px;color: #005FA6;}
+.services .media h4 {font-size: 15px;font-weight: 600;color: #404040;}
+.services .media p {text-align: left;}
+
+/* News */
+
+/* References */
+
+/* Footer */
+
+/* Maillist */
+
+/* Breadcrumb */
+
+/* Page */
+
+/* Category */
+
+/* Sidebar */
+
+/* Responsive */
+@media screen and (max-width:462px) {
+    .services .media .media-left {padding-right: 15px;}
+    
+@media (min-width:463px) and (max-width:768px) {
+   
+}
